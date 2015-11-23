@@ -1,0 +1,10 @@
+{
+  "development": {
+    "driver": "pg",
+    "user": "postgres",
+    "password": "lindinho",
+    "host": "localhost",
+    "database": "issue328db",
+    "schema": "public"
+  }
+}
